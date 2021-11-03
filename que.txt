@@ -1,0 +1,9 @@
+1.Explain the Kernel operating system, OS is resource allocator and OS is a control program?
+2.What is resource management? Explain the components.
+3.Explain: (i) security and maintenance with the screen shots, (ii) Back-up and restore of your computer system. 
+4.Explain what is Shell and Kernel?
+5.Write minimum differences between the Linux and Windows operating system.
+6.Explain the components and Architecture of Linux.
+7.Briefly explain the resource management in operating system.       
+8.What are the types of operating system and explain each.
+9.Explain evolution of Linux system and distribution.
